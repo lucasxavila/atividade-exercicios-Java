@@ -14,23 +14,23 @@ java -version
 
 ## Como executar
 
-Clone o repositório:
+1. Clone o repositório:
 ```bash
 https://github.com/lucasxavila/atividade-exercicios-Java.git
 ```
-Entre na pasta do projeto:
+2. Entre na pasta do projeto:
 ```bash
 cd atividade-exercicios-Java
 ```
-Crie a pasta de destino (se for a primeira vez):
+3. Crie a pasta de destino (se for a primeira vez):
 ```bash
 mkdir bin
 ```
-Compile o arquivo Java:
+4. Compile o arquivo Java:
 ```bash
 javac -d bin src/Atvd1.java
 ```
-Execute o programa:
+5. Execute o programa:
 ```bash
 java -cp bin Atvd1
 ```
