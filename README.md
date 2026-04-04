@@ -12,7 +12,7 @@ Para verificar se o Java está instalado, rode no terminal:
 java -version
 ```
 
-### Como executar as atividades:
+## Como executar
 
 Clone o repositório:
 ```bash
